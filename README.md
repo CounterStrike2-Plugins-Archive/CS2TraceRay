@@ -1,3 +1,8 @@
+# Archive
+Please consider to use [Ray-Trace](https://github.com/FUNPLAY-pro-CS2/Ray-Trace)
+
+
+
 # CS2TraceRay
 A trace ray library developed for use in Counter Strike 2, in conjunction with the CounterStrikeSharp API. This enables the use of trace ray with TraceMask, Contents and skip enums.
 
